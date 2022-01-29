@@ -1,4 +1,4 @@
-# simple-linearmodel-api
+# simple-flask-model-api
 
 ## Description
 
